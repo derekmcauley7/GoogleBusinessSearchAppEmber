@@ -1,0 +1,14 @@
+
+{{outlet}}
+
+{{#each model as |place|}}
+<h4>Name: <strong>
+{{place.name}}
+</strong></h4>
+<h4>Address: <strong>
+{{place.address}}
+<h4>Rating: {{place.rating}}  {{fa-icon "star"}}</h4> 
+<br/>
+<img src={{place.img}} />
+</strong></h4>
+{{/each}}

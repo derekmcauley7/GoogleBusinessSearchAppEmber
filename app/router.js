@@ -7,6 +7,10 @@ const Router = EmberRouter.extend({
 });
 
 Router.map(function() {
+  this.route('search');
+  this.route('search-result');
+  this.route('place');
+  this.route('places');
 });
 
 export default Router;
