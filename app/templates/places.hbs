@@ -2,12 +2,12 @@
 {{outlet}}
 
 {{#each model as |place|}}
-<h4>Name: <strong>
+<h4 class="business-name">Name: <strong>
 {{place.name}}
 </strong></h4>
 <h4>Address: <strong>
 {{place.address}}
-<h4>Rating: {{place.rating}}  {{fa-icon "star"}}</h4> 
+<h4>Rating: {{place.rating}}  {{fa-icon "star" style="color:#FFD700;"}}</h4>
 <br/>
 <img src={{place.img}} />
 </strong></h4>
