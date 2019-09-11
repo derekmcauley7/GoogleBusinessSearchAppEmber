@@ -1,7 +1,8 @@
 # accessibility-app
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+<img width="1137" alt="Screenshot 2019-09-11 at 20 45 10" src="https://user-images.githubusercontent.com/5990147/64729634-6fc7d300-d4d5-11e9-8510-f869139c22b4.png">
+<img width="1015" alt="Screenshot 2019-09-11 at 20 44 54" src="https://user-images.githubusercontent.com/5990147/64729635-70606980-d4d5-11e9-8b52-1529f0f072bd.png">
+
 
 ## Prerequisites
 
